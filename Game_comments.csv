@@ -2,7 +2,7 @@ trainee,timestamp,eventType,event
 1,14.5.2020 10:03:27,game,[INFO] Storyline
 1,14.5.2020 10:04:51,game,[TASK] Reconnaissance
 1,14.5.2020 10:15:20,game,[HINT] (40-1) What tool to use?
-1,14.5.2020 10:22:11,game,[TASK] Exploiting vulnerabilit
+1,14.5.2020 10:22:11,game,[TASK] Exploiting vulnerability
 1,14.5.2020 10:36:05,game,[HINT] (41-1) What tool to use?
 1,14.5.2020 10:51:34,game,[HINT] (41-2) What exploit to use?
 1,14.5.2020 11:02:37,game,[TASK] Looking for something useful
